@@ -1,0 +1,4 @@
+-e https://github.com/nickc1/buoypy.git
+sentinelsat
+geojson
+requests
