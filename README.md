@@ -1,7 +1,7 @@
 ## By Gui Alvarenga 
 https://github.com/guin0x
 
-Functions to query the Copernicus Open Access Hub (https://scihub.copernicus.eu/dhus) and check for available products.
+Functions to query the Copernicus Open Access Hub (https://scihub.copernicus.eu/dhus) and check for available products given a certain buoy station from NDBC (http://www.ndbc.noaa.gov/).<br>
 These functions use the module buoypy by Nick Cortale to query the NDBC, available at (https://github.com/nickc1/buoypy).
 
 -------------------------------------------------------------------------
